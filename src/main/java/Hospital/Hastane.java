@@ -16,7 +16,9 @@ private  Hastane(){   //obje olusumunu engellemek icin privat yaptik
                 "\t\t     Adres : " + Hastane.adress +
                 "\n\t\t Telefon : " + Hastane.telefon +
                 "\n\t\t    email: " + Hastane.email);
-        Thread.sleep(5000);
+        Thread.sleep(50000);
+
+        System.out.println("github deneme");
 
     }
 }
